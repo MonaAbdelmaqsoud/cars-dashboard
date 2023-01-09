@@ -1,0 +1,28 @@
+.m-l-2{
+    margin-left:2%;
+}
+
+.overflow{
+    overflow: hidden;
+}
+
+.float-left{
+    float: left;
+}
+
+.m-b-15{
+    margin-bottom: 15px;
+}
+
+.captalize{
+    text-transform: capitalize;
+}
+.mg-5{
+    margin: 0 5%;
+}
+
+.d-flex{
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+}

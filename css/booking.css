@@ -1,0 +1,74 @@
+.b-title{
+    font-weight: 900;
+}
+/*tabs */
+.tabs{
+    padding-right: 50px;
+}
+.tabs .check-boxes #kind, .tabs .check-boxes #cars{
+    border: 1px solid #797878;
+    border-radius: 30px;
+    width: 100px;
+    padding: 5px;
+}
+
+.tabs .check-boxes{
+    width: 90%;
+}
+.tabs .b-icons{
+    width: 10%;
+    right: 0;
+}
+.b-icons{
+    display: flex;
+    justify-items: center;
+    justify-content: space-around;
+}
+.icon-1, .icon-2{
+    width: 30px;
+    height: 30px;
+    padding-top: 5px;
+    text-align: center;
+    border-radius: 50%;
+}
+.icon-1{
+    background: #fff;
+}
+.icon-2{
+    background: rgb(145, 56, 219);
+    color: #fff;
+}
+
+/*models*/
+.b-models{
+    padding-bottom: 20px;
+}
+.b-model{
+    width: 30%;
+    background: #fff; 
+    padding: 20px;
+    border-radius: 20px
+}
+
+.b-model .b-model-img{
+    width: 80%;
+    margin: auto;
+}
+.b-model-img img{
+    width: 100%;
+}
+
+.b-model-info{
+    color: #797878;
+    display: flex;
+    justify-items: center;
+    justify-content: space-around;
+}
+
+.b-model-info .p-n{
+    width: 15%;
+}
+.b-model-info .c-type{
+    width: 60%;
+}
+
